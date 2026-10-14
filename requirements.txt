@@ -1,0 +1,4 @@
+pandas>=2.0
+selenium>=4.10
+undetected-chromedriver>=3.5
+setuptools

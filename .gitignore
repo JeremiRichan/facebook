@@ -1,0 +1,21 @@
+# Sessions Chrome (contiennent vos cookies Facebook)
+Facebook_Profile/
+
+# Données personnelles collectées
+*.csv
+*.csv.bak-*
+Facebook_Amis_cache.json
+diagnostics/
+
+# Logs, captures, journaux d'erreurs
+*.log
+*.log.*
+*.png
+erreur.txt
+
+# Python / outils
+__pycache__/
+*.pyc
+.pytest_cache/
+node_modules/
+package-lock.json

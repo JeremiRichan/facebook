@@ -1,0 +1,7 @@
+{
+  "private": true,
+  "description": "Dépendance de test uniquement (tests/test_js_snippets.py)",
+  "devDependencies": {
+    "jsdom": "^30.1.2"
+  }
+}
